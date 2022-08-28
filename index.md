@@ -7,7 +7,7 @@
 - A pratical class
 
 
-> Whereever you go, go with all your heart. - Confucius
+> Wherever you go, go with all your heart. - Confucius
 
 
 ### Jekyll Themes
